@@ -13,7 +13,7 @@
 
 ## Download source
 ```sh
-git clone https://github.com/ntnu-idri2004/buffer-overflow
+git clone https://gitlab.com/ntnu-idri2004/buffer-overflow
 ```
 
 ## Build:
